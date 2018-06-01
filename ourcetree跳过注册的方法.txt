@@ -1,0 +1,11 @@
+
+
+下载好之后会有这么一个界面要求你注册或登录。（不管它）将下面的一串串放进我的电脑的地址栏，打开sourcetree的文件夹
+
+%LocalAppData%\Atlassian\SourceTree\
+
+在当前文件夹下创建一个json文件，文件名为accounts.json
+
+保存此文件。
+
+ 重新启动sourcetree，恩，哒~哒哒~
